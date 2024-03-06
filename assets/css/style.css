@@ -405,5 +405,9 @@ footer {
 .footer-column + .footer-column {
     margin-left: 90px;
 }
-
+.radiusss-image {
+    width: 350px; /* Adjust the width as needed */
+    height: 350px; /* Adjust the height as needed */
+    border-radius: 50%; /* Make sure the border-radius is 50% to maintain a circle shape */
+}
 
