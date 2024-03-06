@@ -196,7 +196,7 @@ section {
 }
 
 .scroll-down {
-    position: absolute;
+    position: fixed;
     bottom: 6%;
     right: 9%;
 }
@@ -205,7 +205,7 @@ section {
     display: block;
     padding: 12px;
     font-size: 25px;
-    color: white;
+    color: rgb(255, 255, 255);
     background-color: #310e68;
 background-image: linear-gradient(316deg, #310e68 0%, #5f0f40 74%);
     border-radius: 30px;
