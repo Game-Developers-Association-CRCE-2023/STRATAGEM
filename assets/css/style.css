@@ -210,6 +210,7 @@ body {
     width: 100px; /* Set the fixed width for the square */
     margin: 0 auto; /* Center the square horizontally */
     overflow: hidden; /* Hide any overflow from the image */
+    padding-top: 30px;
 }
 .scroll-down {
     position: fixed;
